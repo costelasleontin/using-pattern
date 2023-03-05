@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nato/Documents/CSharp/UsingPattern/UsingPattern.csproj": {}
+    "/home/nato/Documents/CSharp/Using_Pattern/UsingPattern.csproj": {}
   },
   "projects": {
-    "/home/nato/Documents/CSharp/UsingPattern/UsingPattern.csproj": {
+    "/home/nato/Documents/CSharp/Using_Pattern/UsingPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nato/Documents/CSharp/UsingPattern/UsingPattern.csproj",
+        "projectUniqueName": "/home/nato/Documents/CSharp/Using_Pattern/UsingPattern.csproj",
         "projectName": "UsingPattern",
-        "projectPath": "/home/nato/Documents/CSharp/UsingPattern/UsingPattern.csproj",
+        "projectPath": "/home/nato/Documents/CSharp/Using_Pattern/UsingPattern.csproj",
         "packagesPath": "/home/nato/.nuget/packages/",
-        "outputPath": "/home/nato/Documents/CSharp/UsingPattern/obj/",
+        "outputPath": "/home/nato/Documents/CSharp/Using_Pattern/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nato/.nuget/NuGet/NuGet.Config"
